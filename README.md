@@ -7,7 +7,6 @@ abagale HTML
 Technologies Used
 * HMTL
 * CSS
-* Markdown
 
 Description
 This website displays information about my pug abagale. It was constructed with the guidance of Epicodus. The website does not currently incorporate javascript.
